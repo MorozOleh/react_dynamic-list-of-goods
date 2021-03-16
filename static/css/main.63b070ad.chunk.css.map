@@ -1,0 +1,1 @@
+{"version":3,"sources":["GoodsList.scss"],"names":[],"mappings":"AAAA,WACE,qBAAsB,CACtB,YAAa,CACb,eAAgB","file":"main.63b070ad.chunk.css","sourcesContent":[".GoodsList {\n  background-color: pink;\n  padding: 30px;\n  margin-top: 20px;\n}"]}
